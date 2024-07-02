@@ -1,3 +1,4 @@
+## OUTPUT
 Most Used Characters in Nikke:
 [('the', 376), ('to', 232), ('a', 198), ('I', 188), ('is', 150), ('of', 150), ('for', 146), ('and', 139), ('you', 132), ('in', 120)]
 
